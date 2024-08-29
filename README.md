@@ -2,7 +2,7 @@
 
 Meu nome e Enzo 
 
-- Estou estudando no alura
+- Estou estudando no [Alura](https://ww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organizacão e compartilhamento dos meus projetos desenvolvidos
 
